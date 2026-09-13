@@ -357,14 +357,6 @@ Some areas that could be improved in a future version include:
 
 ---
 
-## Author
-
-**Apon Kumar Das**
-
-Aspiring Data Engineer with an interest in software development, databases, data engineering, and building practical technology projects.
-
----
-
-## License
+## Acknowledgments
 
 This project was built as part of my WebTech course, applying full-stack concepts to a real-world implementation.
